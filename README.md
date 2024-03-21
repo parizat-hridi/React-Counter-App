@@ -32,4 +32,4 @@ npm start
    
 ## Links:
 01. [Counter App](https://github.com/parizat-hridi/React-Counter-App.git)
-02. [Live Demo] 
+02. [Live Demo](https://counterapp07.netlify.app)
