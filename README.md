@@ -31,5 +31,5 @@ npm start
 03. Bootstrap: Styling framework for designing web pages.
    
 ## Links:
-01. [Counter App](https://github.com/parizat-hridi/React-Counter-App.git)
-02. [Live Demo](https://counterapp07.netlify.app)
+01. [Live Demo](https://counterapp07.netlify.app)
+02. [Counter App Code](https://github.com/parizat-hridi/React-Counter-App.git)
